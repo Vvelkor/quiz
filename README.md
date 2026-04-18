@@ -1,0 +1,1 @@
+# Quiz Empire\n\n1. npm install\n2. npm run dev\n3. Deploy on Vercel\n

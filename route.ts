@@ -1,0 +1,1 @@
+import {NextResponse} from 'next/server'; export async function POST(){return NextResponse.json({questions:[{question:'Capitale de la France ?',answer:'Paris'},{question:'2+2 ?',answer:'4'},{question:'Couleur du ciel ?',answer:'Bleu'}]})}
